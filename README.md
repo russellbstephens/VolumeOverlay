@@ -4,6 +4,7 @@
 
 ## Usage
 
+Add the following in `didFinishLaunchingWithOptions` in the AppDelegate
 ```
 VolumeOverlay.shared.load()
 ```
