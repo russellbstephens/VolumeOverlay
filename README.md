@@ -1,4 +1,4 @@
-# VolumeOverlay [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+# VolumeOverlay [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Travis](https://travis-ci.org/russellbstephens/VolumeOverlay.svg?branch=master)](https://travis-ci.org/russellbstephens/VolumeOverlay)
 
 ![VolumeOverlay: Drop-in Replacement Volume Overlay for iOS](https://github.com/russellbstephens/VolumeOverlay/blob/master/imgs/style_full.png)
 
